@@ -1,0 +1,1 @@
+Menu filtering using Vanilla JS
